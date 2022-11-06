@@ -11507,3 +11507,7 @@ html {
 .copyright {
   background-color: #1a252f;
 }
+
+img.imglogo {
+    width: 60%;
+}
