@@ -1,2 +1,2 @@
-# lookgrafico
+#Kgráfico
 Kgrafico esta es una prueba 
